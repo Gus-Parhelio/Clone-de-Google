@@ -30,3 +30,16 @@ nav .nav-right-secction a{
     margin-right: 10px;
     color: #000000;
 }
+header .nav-right-secction .menu-icon{
+background-image: url('https://image.flaticon.com/icons/png/128/3603/3603178.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+width: 25px;
+height: 25px;
+margin-right: 10px;
+}
+nav .nav-right-secction img{
+    border-radius: 50%;
+    margin-right: 10px;
+}
