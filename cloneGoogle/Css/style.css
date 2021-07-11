@@ -78,3 +78,25 @@ main .main-input-cntainer input{
     height: 40px;
     outline: none;
 }
+main .main-input-cntainer:hover{
+    box-shadow: 0 1px 6px 0 #20212447;
+    border-color: #dfe1e500;
+}
+main .main-input .saerch-icon{
+background-image: url('https://www.isnotdown.es/assets/pics/siteslikesearch.png');
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+width: 18px;
+height: 18px;
+padding-right: 13px;
+}
+main .main-input .micro-icon{
+    cursor: pointer;
+    background-image: url('https://w7.pngwing.com/pngs/611/272/png-transparent-blue-red-and-yellow-google-voice-logo-microphone-google-voice-google-search-google-logo-microphone-angle-electronics-search-engine-optimization-thumbnail.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
