@@ -2,6 +2,9 @@ body {
     background-color: #fff;
     font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
 }
+body button{
+    cursor: pointer;
+}
 .sprite {
     background-image: linear-gradient(transparent,transparent),url(https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-e99844f6.svg);
     background-repeat: no-repeat;
@@ -142,7 +145,7 @@ a small{
     background-color: #36c;
     border: 1px solid #36c;
     color: #fff;
-    cursor: pointer;
+    
 }
 .buttom-serch:hover{
     background-color:rgb(17, 83, 216) ;
@@ -152,3 +155,49 @@ a small{
     width: 22px;
     height: 22px;
 }
+
+
+.contenedor-boton-idiomas{
+    text-align: center;
+    margin-top: 35px;
+}
+.boton-idiomas{
+    display: inline;
+    
+    background-color: #f8f9fa;
+    border: 1px solid #a2a9b1;
+    color: #36c;
+    width: 268px;
+    height: 36px;
+    font-weight: 700 ;
+    font-size: 14px;
+    padding: 6px 12px;
+}
+.boton-idiomas i{
+    display: inline-block;
+    vertical-align: middle;
+}
+.texto-idiomas{
+    padding: 0 6px;
+    vertical-align: middle;
+}
+.icono-chino{
+    background-position: 0 -617px;
+    width: 22px;
+    height: 22px;
+}
+.icono-flecha{
+    background-position: 0 -527px;
+    width: 14px;
+    height: 14px;
+}
+main hr, img {
+    border: 0;
+}
+main hr{
+    clear: both;
+    height: 0;
+    border-bottom: 1px solid #c8ccd1;
+    margin: 26px 13px;
+}
+
