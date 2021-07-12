@@ -1,3 +1,7 @@
+body {
+    background-color: #fff;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Lato,Helvetica,Arial,sans-serif;
+}
 .sprite {
     background-image: linear-gradient(transparent,transparent),url(https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-e99844f6.svg);
     background-repeat: no-repeat;
@@ -89,4 +93,22 @@ main h1 .wiki_log_text{
 .lang10{
     top: 80%;
     left: 60%;
+}
+.lang a{
+    display: block;
+    padding: 0;
+    text-decoration: none;
+    white-space: normal;
+}
+a{
+    unicode-bidi: embed;
+    outline: 0;
+    color: #36c;
+}
+.lang a strong {
+    display: block;
+    font-size: 16px;
+}
+a small{
+    color: #54595d;
 }
