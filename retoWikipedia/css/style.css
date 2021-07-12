@@ -1,0 +1,92 @@
+.sprite {
+    background-image: linear-gradient(transparent,transparent),url(https://www.wikipedia.org/portal/wikipedia.org/assets/img/sprite-e99844f6.svg);
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+}
+main .centralLogo{
+    left: 38px;
+    top: 158px;
+    position: absolute;
+    width: 200px;
+}
+ .central_elements{
+    width: 270px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+main h1 .wiki_log {
+    background-position: 0 -254px;
+    width: 176px;
+    height: 32px;
+}
+main h1 .wiki_log_text{
+    color: rgba(0, 0, 0, 0);
+}
+.centrado_elementos_titulo{
+    display: inline-block;
+    vertical-align: bottom;
+    align-items: center;
+}
+.Slogan{
+    display: block;
+    font-family: Linux Libertine,Georgia,Times,serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.contenedor-idiomas{
+    height: 325px;
+    width: 546px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 100%;
+    vertical-align: middle;
+    position: relative;
+}
+.lang {
+    position: absolute;
+    width: 156px;
+}
+.lang1{
+    top: 0;
+    right: 60%;
+
+}
+.lang2{
+    top: 0;
+    left: 60%;
+}
+.lang3{
+    top: 20%;
+    right: 70%;
+}
+.lang4{
+    top: 20%;
+    left: 70%;
+}
+.lang5{
+    top: 40%;
+    right: 72%;
+}
+.lang6{
+    top: 40%;
+    left: 72%;
+}
+.lang7{
+    top: 60%;
+    right: 70%;
+}
+.lang8{
+    top: 60%;
+    left: 70%;
+}
+.lang9{
+    top: 80%;
+    right: 60%;
+    
+}
+.lang10{
+    top: 80%;
+    left: 60%;
+}
