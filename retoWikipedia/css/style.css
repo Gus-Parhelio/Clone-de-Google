@@ -201,3 +201,174 @@ main hr{
     margin: 26px 13px;
 }
 
+.barra-lateral-iz{
+    width: 100%;
+}
+.sidebar1{
+    position: relative;
+    width: 35%;
+    float: left;
+    clear: left;
+    margin-bottom: 3.2rem;
+    vertical-align: top;
+}
+.sidebar1-content{
+    max-width: 350px;
+    position: relative;
+    margin: 0 auto;
+}
+.iconposition1{
+    position: absolute;
+    top: 0px;
+    left: 8px;
+}
+.text-position{
+    position: relative;
+    margin: 0;
+    padding-left: 6rem;
+    padding-right: 2rem;
+    color: #54595d;
+    font-size: 13px;
+}
+
+
+.logo-sidebar-wikimedi{
+    background-position: 0 -212px;
+    width: 42px;
+    height: 42px;
+}
+.logo-sidebar-wikiapp{
+    background-position: 0 -719px;
+    width: 42px;
+    height: 42px;
+}
+.play-icon{
+    display: inline-block;
+    width: 124px;
+    height: 38px;
+    cursor: pointer;
+}
+.apple-icon{
+    display: inline-block;
+    width: 110px;
+    height: 38px;
+    cursor: pointer;
+}
+.contenidos-derechos{
+    display: inline-block;
+    width: 65%;
+}
+.contenido-derecho{
+    float: left;
+    position: relative;
+    width: 33%;
+    height: 90px;
+}
+.contenido-links{
+    display: inline-block;
+    height: 50px;
+    width: 90%;
+    padding: 1em;
+    white-space: nowrap;
+}
+.contenido-icono{
+    display: inline-block;
+    width: 50px;
+    text-align: center;
+}
+.contenido-texto{
+    max-width: 65%;
+    font-size: 14px;
+    vertical-align: middle;
+    white-space: normal;
+    display: inline-block;
+}
+.contenido-texto-tags, .contenido-texto-titulo{
+    display: block;
+}
+.contenido-texto-titulo{
+    color: #36c;
+}
+.contenido-texto-tags{
+    color: #54595d;
+    font-size: 13px;
+}
+.svg1{
+    background-position: 0 0;
+    width: 47px;
+    height: 47px;
+}
+.svg2{
+    background-position: 0 -446px;
+    width: 36px;
+    height: 36px;
+}
+.svg3{
+    background-position: 0 -482px;
+    width: 37px;
+    height: 37px;
+}
+.svg4{
+    background-position: 0 -126px;
+    width: 37px;
+    height: 37px;
+}
+.svg5{
+    background-image: url(https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikinews-logo_sister.png);
+    background-position: 0 0;
+    background-size: 47px 26px;
+    width: 47px;
+    height: 26px;
+}
+.svg6{
+    background-position: 0 -163px;
+    width: 49px;
+    height: 49px;
+}
+.svg7{
+    background-position: 0 -409px;
+    width: 43px;
+    height: 37px;
+}
+.svg8{
+    background-position: 0 -286px;
+    width: 42px;
+    height: 42px;
+}
+.svg9{
+    background-position: 0 -47px;
+    width: 42px;
+    height: 42px;
+}
+.svg10{
+    background-position: 0 -328px;
+    width: 39px;
+    height: 39px;
+}
+.svg11{
+    background-position: 0 -367px;
+    width: 42px;
+    height: 42px;
+}
+.svg12{
+    background-position: 0 -89px;
+    width: 37px;
+    height: 37px;
+}
+.licencia small:after{
+    content: "\2022";
+    display: inline-block;
+    font-size: 13px; 
+     line-height: inherit;
+    margin-left: .8rem;
+    margin-right: .5rem;
+}
+.licencia{
+    display: inline-block;
+    color: #54595d;
+    text-align: center;
+    width: 100%;
+}
+.hr{
+    margin-top: 20px;
+}
